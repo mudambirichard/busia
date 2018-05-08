@@ -1,0 +1,44 @@
+/* Your custom styles */
+/*navbar*/
+.navbar-nav li a{
+	float: auto;
+}
+
+.nav-item a{
+	 float: left;
+}
+/*navbar*/
+
+html,
+title,
+body,
+#ric{
+	  height: 100%;
+}
+
+#ric{
+	background: url("../img/4.jpeg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size:cover;
+
+   background-size: cover:
+    }
+
+
+  .card3{  background-image: url(../img/3.jpeg);
+ 	    -webkit-background-size: cover;
+
+}
+
+
+  .card2{  background-image: url(../img/1.jpeg);
+ 	    -webkit-background-size: cover;
+
+}
+
+
+  .card1{  background-image: url(../img/2.jpeg);
+ 	    -webkit-background-size: cover;
+
+}
